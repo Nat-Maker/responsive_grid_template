@@ -1,0 +1,1 @@
+###esta es una aplicacion responsive que contiene ajuste de columnas conforme al dispositivo
